@@ -1,5 +1,3 @@
-package Java.exercícios.ex79;
-
 public class Operacoes {
 
     // Operações
