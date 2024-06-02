@@ -163,7 +163,7 @@ public class Calculadora extends JFrame implements ActionListener{
         botaoFatorial.addActionListener(e -> saida.setText(new Operacoes().fatorial(saida.getText())));
         
         // Imagens
-        ImageIcon logo = new ImageIcon("C:/Users/Davi/Documents/programas/Java/exercícios/ex79/calculator.png");
+        ImageIcon logo = new ImageIcon("calculator.png");
 
         // Organizacao
         JPanel painelBotoes = new JPanel();
